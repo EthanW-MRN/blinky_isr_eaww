@@ -100,7 +100,7 @@ void Error_Handler(void);
 #endif
 
 /* USER CODE BEGIN Private defines */
-#define DELAY_COUNT 1000000
+#define DELAY_COUNT 676767
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus
